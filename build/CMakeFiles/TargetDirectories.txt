@@ -1,0 +1,3 @@
+/home/james/Projects/usbnotify/build/CMakeFiles/usbnotify.dir
+/home/james/Projects/usbnotify/build/CMakeFiles/edit_cache.dir
+/home/james/Projects/usbnotify/build/CMakeFiles/rebuild_cache.dir

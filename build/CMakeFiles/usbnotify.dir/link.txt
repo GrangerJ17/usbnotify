@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/usbnotify.dir/link.d CMakeFiles/usbnotify.dir/usbnotify.cpp.o -o usbnotify  /usr/lib/libsystemd.so
