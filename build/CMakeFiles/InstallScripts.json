@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/james/Projects/usbnotify/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
